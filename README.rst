@@ -21,5 +21,5 @@ See the `example notebook`_
 
 .. _MarkDown: http://en.wikipedia.org/wiki/Markdown
 .. _this cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-.. _example notebook: https://github.com/oscar6echo/ezmarkdown/blob/master/demo_ezhc.ipynb
+.. _example notebook: https://github.com/oscar6echo/ezmarkdown/blob/master/demo_ezmarkdown.ipynb
 
