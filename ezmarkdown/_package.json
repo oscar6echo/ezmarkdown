@@ -1,0 +1,11 @@
+{
+    "repo": "cdo-eur",
+    "version": "0.3",
+    "depends": [
+        "ipython >=3.1",
+        "markdown >=2.6.2",
+        "beautiful-soup >=4.3.2",
+        "jinja2 >=2.7",
+        "requests >=2.7"
+    ]
+}
