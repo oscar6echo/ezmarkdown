@@ -16,7 +16,7 @@ Several export templates are available:
 + Output cells with toggle input cells
 + Input cells with toggle output cells
 
-See the [example notebook](https://github.com/oscar6echo/ezmarkdown/blob/master/demo_ezmarkdown.ipynb)
+See the [example notebook](http://nbviewer.ipython.org/github/oscar6echo/ezmarkdown/blob/master/demo_ezmarkdown.ipynb)
 
 To install run from command line:  
 ```

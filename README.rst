@@ -13,13 +13,16 @@ This module enables to write MarkDown in an IPython notebook and export
 some or all the cells in the notebook as a standalone HTML document.
 
 | The export module uses nbconvert.
-| Several export templates are available: + Output cells only + Input
-  cells only + Input and output cells + Output cells with toggle input
-  cells + Input cells with toggle output cells
+| Several export templates are available:
+| * Output cells only
+| * Input cells only
+| * Input and output cells
+| * Output cells with toggle input cells
+| * Input cells with toggle output cells
 
 See the `example notebook`_
 
 .. _MarkDown: http://en.wikipedia.org/wiki/Markdown
 .. _this cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-.. _example notebook: https://github.com/oscar6echo/ezmarkdown/blob/master/demo_ezmarkdown.ipynb
+.. _example notebook: http://nbviewer.ipython.org/github/oscar6echo/ezmarkdown/blob/master/demo_ezmarkdown.ipynb
 
